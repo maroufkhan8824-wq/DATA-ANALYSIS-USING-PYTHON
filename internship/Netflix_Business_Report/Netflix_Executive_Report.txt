@@ -1,0 +1,37 @@
+NETFLIX BUSINESS INSIGHTS REPORT
+=============================================
+
+1. EXECUTIVE SUMMARY
+The dataset contains 8,790 unique titles.
+Movies: 6,126 (69.69%).
+TV Shows: 2,664 (30.31%).
+
+2. CONTENT TYPE INSIGHTS
+Movies represent the larger share of the catalog.
+
+3. GEOGRAPHIC INSIGHTS
+Leading country by title count: United States (3,240 titles).
+Titles associated with multiple countries are counted once for each associated country.
+
+4. GENRE INSIGHTS
+Most common listed genre: International Movies (2,752 titles).
+
+5. CONTENT RATING INSIGHTS
+Most common rating category: TV-MA (3,205 titles).
+
+6. RELEASE YEAR INSIGHTS
+Year with the highest title count: 2018 (1,146 titles).
+Recent release years may be incomplete in the dataset.
+
+7. RECOMMENDATIONS
+- Monitor the Movies and TV Shows content mix.
+- Explore genre gaps in important markets.
+- Compare rating categories when planning audience segments.
+- Track release-year trends while accounting for incomplete years.
+- Use viewer engagement and subscription data before making investment decisions.
+
+8. DATA LIMITATIONS
+- This dataset describes catalog titles, not actual viewership.
+- Country and genre counts may overlap.
+- Ratings do not directly measure audience demand.
+- Missing values may affect individual analyses.
